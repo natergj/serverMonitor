@@ -1,0 +1,16 @@
+{
+  "name": "serverMonitor",
+  "version": "0.0.1",
+  "description": "Real Time server monitor supporting multiple servers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5",
+    "socket.io-client": "^1.3.5"
+  }
+}
